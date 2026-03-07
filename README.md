@@ -18,6 +18,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=PiotrPliszka&theme=solarized-dark&hide_border=false)
 <br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PiotrPliszka&bg_color=002b36&color=268bd2&line=268bd2&point=b58900&hide_border=true)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake-dark.svg">
+  </picture>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
