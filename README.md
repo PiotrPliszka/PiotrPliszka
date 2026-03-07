@@ -14,6 +14,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=PiotrPliszka&theme=solarized-dark&no-frame=false&margin-w=15&margin-h=15)
 ![](https://github-readme-stats.vercel.app/api?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=PiotrPliszka&theme=solarized-dark&hide_border=false)
