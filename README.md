@@ -31,6 +31,5 @@
 
 ---
 <div align="center">
-  
-  <img src="https://visitcount.itsvg.in/api?id=PiotrPliszka&icon=6&color=12" alt="Visitor Badge">
+  <img src="https://komarev.com/ghpvc/?username=PiotrPliszka&color=268bd2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
