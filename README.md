@@ -16,17 +16,9 @@
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=PiotrPliszka&theme=solarized-dark&no-frame=false&margin-w=15&margin-h=15)
-
-
 ![](https://github-readme-stats.vercel.app/api?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)
-
-
 ![](https://nirzak-streak-stats.vercel.app/?user=PiotrPliszka&theme=solarized-dark&hide_border=false)
-
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PiotrPliszka&bg_color=002b36&color=268bd2&line=268bd2&point=b58900&hide_border=true)
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <div align="center">
     <img src="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake-dark.svg" alt="GitHub Snake" />
