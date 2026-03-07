@@ -31,5 +31,5 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PiotrPliszka&color=268bd2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PiotrPliszka&color=268bd2&style=flat-square&label=PROFILE+VIEWS" width="300" alt="Profile Views" />
 </div>
