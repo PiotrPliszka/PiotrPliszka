@@ -17,8 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=PiotrPliszka&theme=solarized-dark&hide_border=false)
 <br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=PiotrPliszka&theme=solarized-dark)
-<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PiotrPliszka&bg_color=002b36&color=268bd2&line=268bd2&point=b58900&hide_border=true)
 
 ### ✍️ Random Dev Quote
