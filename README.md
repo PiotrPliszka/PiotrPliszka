@@ -24,9 +24,10 @@
 </div>
 
 ### ✍️ Random Dev Quote
-<div algin="center">
+<div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=PiotrPliszka&icon=6&color=12)](https://visitcount.itsvg.in)
