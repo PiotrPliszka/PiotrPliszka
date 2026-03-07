@@ -30,5 +30,6 @@
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=PiotrPliszka&icon=6&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=PiotrPliszka&icon=6&color=12" alt="Visitor Badge">
+</div>
