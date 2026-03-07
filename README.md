@@ -12,18 +12,27 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=PiotrPliszka&theme=solarized-dark&no-frame=false&margin-w=15&margin-h=15)
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=PiotrPliszka&theme=solarized-dark&hide_border=false)
-<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=PiotrPliszka&bg_color=002b36&color=268bd2&line=268bd2&point=b58900&hide_border=true)
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake-dark.svg">
-  </picture>
+
+![](https://github-profile-trophy.vercel.app/?username=PiotrPliszka&theme=solarized-dark&no-frame=false&margin-w=15&margin-h=15)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=PiotrPliszka&theme=solarized-dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=PiotrPliszka&bg_color=002b36&color=268bd2&line=268bd2&point=b58900&hide_border=true)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ### ✍️ Random Dev Quote
