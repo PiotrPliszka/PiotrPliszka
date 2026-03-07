@@ -32,7 +32,10 @@
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrPliszka&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PiotrPliszka/PiotrPliszka/output/github-snake-dark.svg" alt="GitHub Snake" />
+</div>
 </div>
 
 ### ✍️ Random Dev Quote
